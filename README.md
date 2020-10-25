@@ -1,7 +1,7 @@
 # MegaPy
 
 ## Intro
-This is a proxyless Python mega.nz checker designed to be run in the cloud. You can see it running in action [here](http://accounts.miyako.rocks/hits/mega.nz.txt).
+This is a proxyless Python mega.nz checker designed to be run in the cloud.
 
 ## Setup
 To set up this program run the following to install required libraries:
